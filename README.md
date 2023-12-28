@@ -2,13 +2,13 @@
 <hr>
 
 
-#Overview
+## Overview
 Welcome to my React learning journey repository!
 This repository documents my progress and projects as I dive into the world of React. 
 Whether you're a fellow learner or just curious about my experience, feel free to explore the code and notes.
 
 
-#Getting Started
+## Getting Started
 
 To run the projects in this repository, follow these steps:
 
@@ -18,7 +18,7 @@ To run the projects in this repository, follow these steps:
 4. Run the project: npm start
 
 
-#Resources
+## Resources
 
 List helpful resources that you used or found beneficial. This could include tutorials, documentation, articles, and videos.
 
